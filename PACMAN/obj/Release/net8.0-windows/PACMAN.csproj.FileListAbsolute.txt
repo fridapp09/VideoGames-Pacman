@@ -1,0 +1,34 @@
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\bin\Release\net8.0-windows\PACMAN.exe
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\bin\Release\net8.0-windows\PACMAN.deps.json
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\bin\Release\net8.0-windows\PACMAN.runtimeconfig.json
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\bin\Release\net8.0-windows\PACMAN.dll
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\bin\Release\net8.0-windows\PACMAN.pdb
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.Form1.resources
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.Resource1.resources
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.csproj.GenerateResource.cache
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.AssemblyInfoInputs.cache
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.AssemblyInfo.cs
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.csproj.CoreCompileInputs.cache
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.dll
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\obj\Release\net8.0-windows\refint\PACMAN.dll
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.pdb
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.genruntimeconfig.cache
+C:\Users\Frida\Documents\Visual Studio 2022\PACMAN\PACMAN\obj\Release\net8.0-windows\ref\PACMAN.dll
+D:\PACMAN\PACMAN\bin\Release\net8.0-windows\PACMAN.exe
+D:\PACMAN\PACMAN\bin\Release\net8.0-windows\PACMAN.deps.json
+D:\PACMAN\PACMAN\bin\Release\net8.0-windows\PACMAN.runtimeconfig.json
+D:\PACMAN\PACMAN\bin\Release\net8.0-windows\PACMAN.dll
+D:\PACMAN\PACMAN\bin\Release\net8.0-windows\PACMAN.pdb
+D:\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.Form1.resources
+D:\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.Resource1.resources
+D:\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.csproj.GenerateResource.cache
+D:\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.AssemblyInfoInputs.cache
+D:\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.AssemblyInfo.cs
+D:\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.csproj.CoreCompileInputs.cache
+D:\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.dll
+D:\PACMAN\PACMAN\obj\Release\net8.0-windows\refint\PACMAN.dll
+D:\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.pdb
+D:\PACMAN\PACMAN\obj\Release\net8.0-windows\PACMAN.genruntimeconfig.cache
+D:\PACMAN\PACMAN\obj\Release\net8.0-windows\ref\PACMAN.dll

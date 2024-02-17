@@ -1,0 +1,7 @@
+C:\Users\Frida\Downloads\FridaPacman\PACMAN.pdb
+C:\Users\Frida\Downloads\FridaPacman\D3DCompiler_47_cor3.dll
+C:\Users\Frida\Downloads\FridaPacman\PenImc_cor3.dll
+C:\Users\Frida\Downloads\FridaPacman\PresentationNative_cor3.dll
+C:\Users\Frida\Downloads\FridaPacman\vcruntime140_cor3.dll
+C:\Users\Frida\Downloads\FridaPacman\wpfgfx_cor3.dll
+C:\Users\Frida\Downloads\FridaPacman\PACMAN.exe

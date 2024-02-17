@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PACMAN", "PACMAN\PACMAN.csproj", "{C04370BF-0880-4DDB-A46C-504C6637C597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C04370BF-0880-4DDB-A46C-504C6637C597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04370BF-0880-4DDB-A46C-504C6637C597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04370BF-0880-4DDB-A46C-504C6637C597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04370BF-0880-4DDB-A46C-504C6637C597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18E0EED5-0455-4FA8-8CE5-BD075463FBDD}
+	EndGlobalSection
+EndGlobal

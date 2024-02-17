@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "iK0OfcoLeO2gCLSJKO0TCJ2U5lg9JjMyCfVW+IljTHaIqGVq0dysP/JI60W5Y38XgeARN30mI6Sagt6wtdJxHw==",
+  "success": true,
+  "projectFilePath": "D:\\PACMAN\\PACMAN\\PACMAN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Frida\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\Frida\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.1\\microsoft.netcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Frida\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Frida\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\Frida\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.1\\microsoft.netcore.app.crossgen2.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

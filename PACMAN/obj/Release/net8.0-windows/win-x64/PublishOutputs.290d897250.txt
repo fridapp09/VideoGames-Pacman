@@ -1,0 +1,7 @@
+D:\Proyecto\PACMAN.pdb
+D:\Proyecto\D3DCompiler_47_cor3.dll
+D:\Proyecto\PenImc_cor3.dll
+D:\Proyecto\PresentationNative_cor3.dll
+D:\Proyecto\vcruntime140_cor3.dll
+D:\Proyecto\wpfgfx_cor3.dll
+D:\Proyecto\PACMAN.exe
